@@ -1,2 +1,2 @@
-# zimodem
+# noisy zimodem
 Zimodem with sound
