@@ -6,6 +6,9 @@ handshaking and dial tone sound is inside source code and the result, who can yo
 <br>
 [![Zimodem light and sound](https://img.youtube.com/vi/VRC4mkl1oA8/0.jpg)](https://www.youtube.com/watch?v=VRC4mkl1oA8)
 
+<br>
+If you found this my work useful, please consider buying me a cup of coffee if you want:<br>
+<a href='https://ko-fi.com/na103' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/cup-border.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 # License
 
